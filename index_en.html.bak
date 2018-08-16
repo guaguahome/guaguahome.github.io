@@ -1,0 +1,306 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+ 
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        
+<title>Gua Move Games</title>
+        <style type="text/css"> 
+		
+<!--
+body,td,th {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+}
+
+body {
+    text-align: center;
+    background-color: #393939;
+}
+
+.article-text {
+    width: 400px;
+    text-align: center;
+    margin: 0px auto 10px;
+    color: #FFF;
+}
+
+.article-name {
+    width: 400px;
+    text-align: center;
+    color: #000000;
+}
+
+ 
+.article-name-img {
+	position: absolute;
+	width: 66px;
+	height: 66px;
+	left: 348px;
+	text-align: left;
+	border: 1px;
+	color: #000000;
+	solid #f00;
+	top: 166px;
+}
+
+.article-name-img-right { 
+	width: 60px;
+	height: 66px;
+	left: 421px;
+	text-align: left;
+	border: 1px;
+	color: #000000;  
+}
+.article-name-img-title { 
+	width: 340px;
+	height: 66px;
+	left: 460px;  
+	color: #003300;  
+}
+			
+.article-image {
+	
+    margin: 2px 2px 2px 2px;
+}
+
+.article-image img {
+    width: 400px;
+}
+
+.article-image-big {
+    margin: 2px 2px 2px 2px;
+}
+
+.article-image-big img {
+    width: 1200px;
+}
+
+.article-badge img {
+    height: 50px;
+}
+
+.article-badge {
+    margin: 15px 2px 15px 2px;
+    text-align: center;
+}
+
+.article-title {
+    width: 400px;
+    text-align: left;
+    margin:0px auto 10px;
+    font-size: 25px;
+    font-weight: bold;
+    color: #4fa0f3;
+}
+
+.article {
+    width: 404px;
+    text-align: left;
+    margin:0px auto 40px;
+    padding: 0px 0px 0px 0px;
+/*    border-width: 1px 1px 1px 1px;*/
+    border-color: #e2e2e2;
+    border-style: solid;
+    background-color: white;
+}
+
+.article-big {
+    width: 1204px;
+    text-align: left;
+    margin:0px auto 40px;
+    padding: 0px 0px 0px 0px;
+    border-width: 1px 1px 1px 1px;
+    border-color: #ffffff;
+    border-style: solid;
+    background-color: white;
+}
+
+.article-text a {
+    color: #ffffff;
+}
+
+			
+.__01 { 
+	width: 400px;
+	text-align: center;
+	margin: 0px auto 40px;
+	padding: 0px 0px 0px 0px;
+	border-width: 1px 1px 1px 1px;
+	border-style: solid;
+	background-color: white;
+	left: 580px;
+	top: 162px;
+	height: 640px;
+}
+
+.__01_up {  
+	text-align: center;
+	position: relative;
+/*	margin: 0px auto 160px;*/
+	left: 0px;
+	top: 5px;
+	width: 400px;
+	height: 94px; 
+	color: #220000;
+}
+
+.icon {
+	position: relative; 
+	left:px;
+	top: px;
+	width: 94px;
+	height: 94px;
+}
+
+.biaoti {
+	position: absolute;
+	text-align: left;
+	left: 100px;
+	top: 7px;
+	width: 290px;
+	height: 32px;
+	color: #0000000;
+	font-size: 24px;
+}
+
+.jiesao {
+	position: absolute;
+	text-align: left;
+	left: 101px;
+	top: 45px;
+	width: 289px;
+	height: 50px;
+	color: #606060;
+	font-size: 12px;
+}
+
+.tu {
+	position: relative;
+	left: 0px;
+	top: px; 
+}
+
+			
+.article-text b {
+    width: 400px;
+    text-align: left;
+    margin: 0px auto 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #FFFFFF;
+}
+-->
+        </style>
+        <meta name="viewport" content="width=device-width, initial-scale=0.8, minimum-scale=0.8, maximum-scale=0.8, user-scalable=no">
+        
+        <script>
+            $(function(){
+                 lazyelem.listen();
+            });
+        </script>
+   
+
+<body>
+
+<div>
+  <p> 
+    <img src="./file/txt_logo.png" class="lazy-loading" />
+            <!-- <font size="5">GUA 更多游戏</font> -->  
+  </p> 
+  <p> 
+    <img src="./file/mycodepic_en.png" class="lazy-loading" />
+            <!-- <font size="5">GUA 更多游戏</font> -->  
+  </p> 
+  <p>
+        <font size="3">Slide to see more games</font>  
+  </p>
+ 
+</div>
+ 
+<!-- <div class="article">-->
+ <div class="__01"> 
+ 	<div class="__01_up">
+	  <div class="icon">
+			<img src="file/pic/pandalinkup.png"  width="94px" height="94px"  class="lazy-loading" />
+		</div>
+	   <div class="biaoti"> 
+			&nbsp;&nbsp;Panda Linkup   
+		</div>
+		<div class="jiesao"> 
+			Cute panda : start our fun, wonderful Lianliankan adventure.。
+		</div>
+	</div> 
+	<hr/>
+	<div class="tu">
+		<img src="./file/pic/bigpic/pandalinkup_en.png" width="394" class="lazy-loading"  >
+	</div>
+	<div class="article-badge"><a href="https://itunes.apple.com/cn/app/id1289101018" target="_blank" alt="十点大作战"><img data-original="http://bmob-cdn-444.b0.upaiyun.com/2017/11/06/19c620e840673fd7806d31361e786605.gif" width="140" height="50" class="lazy-loading" src="./file/download_en.png"></a></div>
+</div>
+<!--</div>-->
+
+<!-- <div class="article">-->
+ <div class="__01"> 
+ 	<div class="__01_up">
+	  <div class="icon">
+			<img src="file/pic/balst10.png"  width="94px" height="94px"  class="lazy-loading" />
+		</div>
+	   <div class="biaoti"> 
+			&nbsp;&nbsp;Blast 10!
+		</div>
+		<div class="jiesao"> 
+			Blast 10! is a fun game that combines the elimination game and puzzles perfectly!
+	  </div>
+	</div> 
+	<hr/>
+	<div class="tu" width="400px">
+		<a href="https://itunes.apple.com/app/blast-10/id1289101018" target="_blank">
+		<img src="./file/pic/bigpic/blast10_en.png" width="394" class="lazy-loading"/>
+		</a>
+	</div>
+	<div class="article-badge"><a href="https://itunes.apple.com/app/blast-10/id1289101018" target="_blank" alt="十点大作战">
+		<img data-original="http://bmob-cdn-444.b0.upaiyun.com/2017/11/06/19c620e840673fd7806d31361e786605.gif" width="140" height="50" class="lazy-loading" src="./file/download_en.png">
+		</a>
+	</div>
+</div>
+<!--</div>-->
+ 
+ <!-- <div class="article">-->
+ <div class="__01"> 
+ 	<div class="__01_up">
+	  <div class="icon">
+	  	<a href="https://itunes.apple.com/app/puzzle-1010/id1270240630" target="_blank">
+			<img src="file/pic/1010.png"  width="94px" height="94px"  class="lazy-loading" />
+			</a>
+		</div>
+	   <div class="biaoti"> 
+			&nbsp;&nbsp;Puzzle 1010
+		</div>
+		<div class="jiesao"> 
+			This is a fun and distinctive puzzle game. Relaxing, challenging and easy to learn!
+		</div>
+	</div> 
+	<hr/>
+	<div class="tu">
+		<a href="https://itunes.apple.com/app/puzzle-1010/id1270240630" target="_blank">
+		<img src="./file/pic/bigpic/1010.png" width="394" class="lazy-loading"/>
+		</a>
+	</div>
+	<div class="article-badge"><a href="https://itunes.apple.com/app/puzzle-1010/id1270240630" target="_blank" alt="Puzzle 1010">
+		<img data-original="http://bmob-cdn-444.b0.upaiyun.com/2017/11/06/19c620e840673fd7806d31361e786605.gif" width="140" height="50" class="lazy-loading" src="./file/download_en.png">
+		</a></div>
+</div>
+<!--</div>-->
+ 
+  
+ 
+        
+<!-- app结束 -->
+        <div class="article-text"><span class="copyright">Copyright @ 2010-2018 Gua Studio, Inc. All rights reserved.</span><br>
+            <br><a href="https://itunes.apple.com/developer/id1270240629" target="_blank">Check out all our amazing iPhone and iPad games and search for "XINHUA LIU" in the AppStore search field</a></div>
+
+<!--这里是网站统计 
+    --> 
+    <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1273221132'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s22.cnzz.com/z_stat.php%3Fid%3D1273221132%26show%3Dpic2' type='text/javascript'%3E%3C/script%3E"));</script>
+     
+
+
+</body></html>
